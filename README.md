@@ -4,7 +4,7 @@ This Ignition project can serve 15,000 dynamic tags from transaction group as JS
 2. This will automatically create 50,000 dynamic tags
 3. ignition_group1.php will serve 1000 dynamic tags as JSON api.
 
-To enable unsigned modules in ignition, just add this line in your ignition.conf.
+To enable unsigned modules in ignition, just add the last line in your ignition.conf.
 
       # Java Additional Parameters
       wrapper.java.additional.1=-XX:+UseConcMarkSweepGC
