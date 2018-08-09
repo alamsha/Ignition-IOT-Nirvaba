@@ -13,5 +13,6 @@ To enable unsigned modules in ignition, just add the last line in your ignition.
       wrapper.java.additional.4=-Dorg.apache.catalina.loader.WebappClassLoader.ENABLE_CLEAR_REFERENCES=false
       #wrapper.java.additional.5=-Xdebug
       #wrapper.java.additional.6=-Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=8000
+      
       wrapper.java.additional.7=-Dignition.allowunsignedmodules=true
 
