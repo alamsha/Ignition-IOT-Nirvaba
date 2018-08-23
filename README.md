@@ -17,6 +17,6 @@ To enable unsigned modules in ignition, just add the last line in your ignition.
       
       wrapper.java.additional.7=-Dignition.allowunsignedmodules=true
       
-**Ignition-React-Django-JSON-Realtime**
+**Ignition-React-Django-JSON-Realtime** -- Serve Ignition historian as JSON api and consume it with Django and ReactJS.
 
 https://github.com/alamsha/Ignition-React-Django-JSON-Realtime/blob/master/README.md
