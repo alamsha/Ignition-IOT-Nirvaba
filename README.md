@@ -16,4 +16,7 @@ To enable unsigned modules in ignition, just add the last line in your ignition.
       #wrapper.java.additional.6=-Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=8000
       
       wrapper.java.additional.7=-Dignition.allowunsignedmodules=true
+      
+**Ignition-React-Django-JSON-Realtime**
 
+https://github.com/alamsha/Ignition-React-Django-JSON-Realtime/blob/master/README.md
