@@ -23,7 +23,7 @@ $dbh = new PDO($dsn, $user, $pass, $opt);
 
 $sql  = $dbh->query("SELECT * FROM lastval.group1
 order by t_stamp desc
-limit 1000
+limit 500
 ;");
 
 
